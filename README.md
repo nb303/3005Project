@@ -21,4 +21,4 @@ The App can be run with python3 Connection.py
 Follow the given directions on the terminal to make changes to the database
 To see the updated tables refresh/reopen the tables on pgAdmin after each change. 
 
-Youtube Demo:
+Youtube Demo:[https://youtu.be/xquuPVm4MCE](url)
