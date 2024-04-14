@@ -5,7 +5,7 @@
 * PostgreSQL
 
 # Set up
-* clone this repo: ```git clone https://github.com/nb303/3005A3.git```
+* clone this repo: ```https://github.com/nb303/3005Project.git```
 * python installation: ```pip3 install psycopg2-binary```
 
 # Database Creation
